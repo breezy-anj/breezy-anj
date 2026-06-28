@@ -4,6 +4,10 @@
 
 Focused on the MERN stack and efficient developer workflows. Building for the web, living in the terminal.
 
+### 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=breezy-anj&theme=dark)](https://git.io/streak-stats)
+
 ### 🛠 Tech Stack
 
 **Frontend**
