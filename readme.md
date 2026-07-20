@@ -6,13 +6,12 @@ Focused on the MERN stack and efficient developer workflows. Building for the we
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=breezy-anj&theme=dark&hide_border=true&ring=57A143&fire=57A143&currStreakLabel=57A143)](https://git.io/streak-stats)
 
 ### 🛠 Tech Stack
 
 **Frontend**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -21,6 +20,7 @@ Focused on the MERN stack and efficient developer workflows. Building for the we
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools & Environment**
 
@@ -38,5 +38,6 @@ $ which editor
 $ which society
 /orgs/NCS            # Nibble Computer Society
 $ status
+"Learning. Building. Optimizing."
 "Learning. Building. Optimizing."
 ```
