@@ -5,7 +5,7 @@
 Focused on the MERN stack and efficient developer workflows. Building for the web, living in the terminal.
 
 
-![NOTES](https://app.notion.com/p/Duniya-Jahan-ke-notes-3f07ca26a8fa80a7afb3ffabe3991e6c?source=copy_link)
+[NOTES](https://app.notion.com/p/Duniya-Jahan-ke-notes-3f07ca26a8fa80a7afb3ffabe3991e6c?source=copy_link)
 
 
 
