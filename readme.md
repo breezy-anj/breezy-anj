@@ -1,6 +1,6 @@
 # AJ
 
-**First Year CSE** | Web Developer at **Nibble Computer Society (NCS)**
+**Second Year CSE** | Web Developer at **Nibble Computer Society (NCS) | Fellow VIM enthusiast**
 
 Focused on the MERN stack and efficient developer workflows. Building for the web, living in the terminal.
 
